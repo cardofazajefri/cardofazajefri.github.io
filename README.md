@@ -1,2 +1,0 @@
-# cardofazajefri.github.io
-web
